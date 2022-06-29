@@ -20,7 +20,7 @@ The codes are written in Python and use Python packages "tensorflow" and "keras"
 
 ## B.  Create training and testing data
 
-Create training/testing datasets using either observational data or numerical solutions. In Liang et al. [2022], we use multi-year large-eddy simulation (LES) solutions for the Ocean State Papa as training data (see Liang et al. [2022] for details). If you are interested in our solutions, feel free to send me an email to Dr. Jun-Hong Liang ([jliang@lsu.edu](mailto:jliang@lsu.edu)). 
+Create training/testing datasets using either observational data or numerical solutions. In Liang et al. [2022], we use multi-year large-eddy simulation (LES) solutions for the Ocean State Papa as training data (see Liang et al. [2022] for details). If you are interested in our LES solutions, feel free to send me an email to Dr. Jun-Hong Liang ([jliang@lsu.edu](mailto:jliang@lsu.edu)). 
 
 The datasets include
 - **ocean_train.nc**: the training dataset
