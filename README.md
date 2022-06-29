@@ -12,9 +12,9 @@ git clone https://github.com/lsuocean/DNN_OSBLMixing/
 
 There are two files under the directory 
 
-- **train.py** – codes to train a DNN model
+- **train.py** – script to train a DNN model
 
-- **test.py**   – codes to run an offline 1D prediction for 9 days, using the trained DNN model.
+- **test.py** – script to run an offline 1D prediction for 9 days, using the trained DNN model.
 
 The codes are written in Python and use Python packages "tensorflow" and "keras"
 
