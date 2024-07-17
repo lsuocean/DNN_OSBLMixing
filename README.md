@@ -54,4 +54,4 @@ Steps C and D are repeated to select the optimal model hyperparameters.
 Details of the model and its testing is in:
 Liang, J.H., Yuan, J., Wan, X., Liu, J., Liu, B., Jang, H. and Tyagi, M., 2022. Exploring the use of machine learning to parameterize vertical mixing in the ocean surface boundary layer. *Ocean Modelling*, p.102059. [doi.org/10.1016/j.ocemod.2022.102059](https://doi.org/10.1016/j.ocemod.2022.102059)
 
-If you have any questions regarding the model, please feel free to open an issue or send an email to Dr. Jun-Hong Liang ([jliang@lsu.edu](mailto:jliang@lsu.edu)). You are welcome to visit our website for more information about our research: [[https://faculty.lsu.edu/liang/](https://faculty.lsu.edu/liang/)]
+If you have any questions regarding the model, please feel free to open an issue or send an email to Dr. Jun-Hong Liang ([jliang@lsu.edu](mailto:jliang@lsu.edu)). You are welcome to visit our website for more information about our research: ([https://faculty.lsu.edu/liang/](https://faculty.lsu.edu/liang/))
